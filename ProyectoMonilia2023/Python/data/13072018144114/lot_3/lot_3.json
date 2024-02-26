@@ -1,0 +1,13 @@
+{
+    "ph": 1.0,
+    "soil_temperature": 2.0,
+    "env_temperature": 5.0,
+    "lot_number": 1,
+    "soil_moisture": 3.0,
+    "env_humidity": 6.0,
+    "rotary_platforms_angle": 7.0,
+    "timestamp": "13072018194114",
+    "rotary_platform_extensions_state": 1.0,
+    "illuminance": 4.0,
+    "development_stage": 3
+}
